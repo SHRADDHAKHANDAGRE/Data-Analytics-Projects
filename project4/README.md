@@ -32,14 +32,14 @@ The project uses two datasets:
 * Order ID, Order Date, Customer Name
 * State, City
 
-👉 [View Orders Dataset](./orders.csv)
+👉 [View Orders Dataset](./Orders.csv)
 
-### 2. Sales Data
+### 2. Details Data
 
 * Order ID, Amount, Profit, Quantity
 * Category, Sub-Category, Payment Mode
 
-👉 [View Sales Dataset](./sales.csv)
+👉 [View Sales Dataset](./Details.csv)
 
 ---
 
