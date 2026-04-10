@@ -91,4 +91,4 @@ These projects demonstrate how data analytics can be used to transform raw data 
 **Shraddha Khandagre**  
 📍 Indore, India  
 📧 shraddhakhandagre6@gmail.com  
-🔗 LinkedIn | GitHub  
+🔗 LinkedIn-linkedin.com/in/shraddha-khandagre-02195b257 | GitHub-github.com/SHRADDHAKHANDAGRE
