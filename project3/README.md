@@ -24,6 +24,7 @@ This project analyzes customer shopping behavior using a structured dataset and 
 ---
 
 ## 📊 Dataset
+- [Download Dataset](./cleaned_data.csv)
 
 
 ---
